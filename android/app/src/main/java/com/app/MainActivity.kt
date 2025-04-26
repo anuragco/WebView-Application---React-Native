@@ -1,4 +1,4 @@
-package com.app
+package com.app.bharat
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
