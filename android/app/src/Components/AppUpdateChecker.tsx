@@ -3,9 +3,6 @@ import { Alert, Button, Platform, View, Text, StyleSheet, Linking, AppState, Tou
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import DocumentPicker from 'react-native-document-picker';
 import RNFetchBlob from 'rn-fetch-blob';
-import * as FileSystem from 'expo-file-system';
-import * as Updates from 'expo-updates';
-import Constants from 'expo-constants';
 
 type UpdateInfo = {
   updateAvailable: boolean;
